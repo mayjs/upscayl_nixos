@@ -9,7 +9,7 @@
   outputs = { self, nixpkgs, upscayl }: {
 
     packages.x86_64-linux.appimage-run-vulkan = nixpkgs.legacyPackages.x86_64-linux.appimage-run.override {
-      extraPkgs = pkgs: with pkgs; [ vulkan-loader vulkan-tools ];
+      extraPkgs = pkgs: with pkgs; [ vulkan-loader ];
     };
 
     packages.x86_64-linux.upscayl = nixpkgs.legacyPackages.x86_64-linux.writeShellApplication {
