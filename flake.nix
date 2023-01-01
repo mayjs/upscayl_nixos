@@ -2,7 +2,7 @@
   description = "Upscayl on NixOS";
 
   inputs = {
-    upscayl.url = "https://github.com/upscayl/upscayl/releases/download/v1.2.0/Upscayl-1.2.0.AppImage";
+    upscayl.url = "https://github.com/upscayl/upscayl/releases/download/v2.0.1/upscayl-2.0.1-linux.AppImage";
     upscayl.flake = false;
   };
 

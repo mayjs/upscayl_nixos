@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1672428209,
+        "narHash": "sha256-eejhqkDz2cb2vc5VeaWphJz8UXNuoNoM8/Op8eWv2tQ=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "293a28df6d7ff3dec1e61e37cc4ee6e6c0fb0847",
         "type": "github"
       },
       "original": {
@@ -23,13 +23,13 @@
     "upscayl": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-u5TayuJjgnxcmYXVSVCkznrtPBKfoGh/GNist9rFXWc=",
+        "narHash": "sha256-UzEnz8/sAvQAHNK/OEcsihpvIdRPM3I6u5WiLywHg/g=",
         "type": "file",
-        "url": "https://github.com/upscayl/upscayl/releases/download/v1.2.0/Upscayl-1.2.0.AppImage"
+        "url": "https://github.com/upscayl/upscayl/releases/download/v2.0.1/upscayl-2.0.1-linux.AppImage"
       },
       "original": {
         "type": "file",
-        "url": "https://github.com/upscayl/upscayl/releases/download/v1.2.0/Upscayl-1.2.0.AppImage"
+        "url": "https://github.com/upscayl/upscayl/releases/download/v2.0.1/upscayl-2.0.1-linux.AppImage"
       }
     }
   },
